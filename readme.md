@@ -9,7 +9,7 @@ To use this app you don't need to install it; just download it and you can run i
 It shows you how to perform simple analytics
 
 ```
-print("hello, analytics!")
+print("Analytics platform for policy decitions!")
 
 ```
 
