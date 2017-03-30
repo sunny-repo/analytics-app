@@ -12,4 +12,7 @@ def protein_struc(x):
 def DNA_protein_interaction_coff(m,n):
 	pass
 
+def expression_rate():
+	pass
+
 print("Executing the first script in the series!")
