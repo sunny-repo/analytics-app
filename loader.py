@@ -3,3 +3,6 @@
 
 def load_seq():
 	pass
+
+def map_seq():
+	pass
