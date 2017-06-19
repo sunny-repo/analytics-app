@@ -9,3 +9,6 @@ class Database_connector():
 
 	def database_conn(x):
 		print('connect at port', x)
+
+	def database_drop(conn):
+		pass
